@@ -245,32 +245,30 @@ print(f"Status: Transforming data into business value 🚀")
 
 **🎯 KEY ACHIEVEMENTS**
 
-```yaml
-Infrastructure & Engineering:
-  - Engineered 12+ ETL pipelines using AWS Redshift & S3
-  - Reduced data error rates by 25%
-  - Improved processing speed by 40%
-  - Migrated large-scale datasets to Snowflake
-  - Optimized for 200+ daily users
+**Infrastructure & Engineering:**
+- Engineered 12+ ETL pipelines using AWS Redshift & S3
+- Reduced data error rates by 25%
+- Improved processing speed by 40%
+- Migrated large-scale datasets to Snowflake
+- Optimized for 200+ daily users
 
-Analytics & Insights:
-  - Designed 8 interactive dashboards (Power BI, Looker)
-  - Enabled real-time KPI tracking
-  - Reduced manual reporting time by 50%
-  - Drove 15% improvement in feature adoption
+**Analytics & Insights:**
+- Designed 8 interactive dashboards (Power BI, Looker)
+- Enabled real-time KPI tracking
+- Reduced manual reporting time by 50%
+- Drove 15% improvement in feature adoption
   
-Machine Learning Impact:
-  - Deployed predictive models for inventory forecasting
-  - Reduced stockouts by 18%
-  - Built anomaly detection system using Databricks ML
-  - Saved $150K+ quarterly in revenue leakage
+**Machine Learning Impact:**
+- Deployed predictive models for inventory forecasting
+- Reduced stockouts by 18%
+- Built anomaly detection system using Databricks ML
+- Saved $150K+ quarterly in revenue leakage
   
-Data Processing:
-  - Leveraged Databricks & PySpark for terabyte-scale data
-  - Reduced processing time by 35%
-  - Implemented robust data governance with Collibra
-  - Ensured healthcare regulatory compliance
-```
+**Data Processing:**
+- Leveraged Databricks & PySpark for terabyte-scale data
+- Reduced processing time by 35%
+- Implemented robust data governance with Collibra
+- Ensured healthcare regulatory compliance
 
 </td>
 </tr>
@@ -289,35 +287,33 @@ Data Processing:
 
 **🎯 KEY ACHIEVEMENTS**
 
-```yaml
-Performance Optimization:
-  - Optimized 50+ SQL queries
-  - Reduced system latency by 35%
-  - Saved 30+ engineering hours monthly
-  - Automated recurring ETL jobs
+**Performance Optimization:**
+- Optimized 50+ SQL queries
+- Reduced system latency by 35%
+- Saved 30+ engineering hours monthly
+- Automated recurring ETL jobs
 
-Business Intelligence:
-  - Built Tableau dashboards for operational KPIs
-  - Tracked campaign performance & audience segments
-  - Boosted marketing ROI by 18%
+**Business Intelligence:**
+- Built Tableau dashboards for operational KPIs
+- Tracked campaign performance & audience segments
+- Boosted marketing ROI by 18%
 
-Product Analytics:
-  - Conducted in-depth driver & rider engagement analysis
-  - Improved user satisfaction scores by 12%
-  - Applied NLP to 20K+ user reviews
-  - Guided UX design improvements
+**Product Analytics:**
+- Conducted in-depth driver & rider engagement analysis
+- Improved user satisfaction scores by 12%
+- Applied NLP to 20K+ user reviews
+- Guided UX design improvements
 
-Advanced Analytics:
-  - Executed A/B testing frameworks
-  - Validated dynamic pricing strategies
-  - Increased gross bookings by 8%
-  - Built transaction risk scoring model
-  - Reduced chargeback rates by 15%
+**Advanced Analytics:**
+- Executed A/B testing frameworks
+- Validated dynamic pricing strategies
+- Increased gross bookings by 8%
+- Built transaction risk scoring model
+- Reduced chargeback rates by 15%
   
-Fraud Prevention:
-  - Identified driver-rider collusion patterns
-  - Prevented $1.2M in annualized revenue loss
-```
+**Fraud Prevention:**
+- Identified driver-rider collusion patterns
+- Prevented $1.2M in annualized revenue loss
 
 </td>
 </tr>
@@ -336,28 +332,26 @@ Fraud Prevention:
 
 **🎯 KEY ACHIEVEMENTS**
 
-```yaml
-Clinical Data Analytics:
-  - Analyzed large-scale clinical datasets
-  - Improved research accuracy by 20%
-  - Enabled faster data-driven decisions
-  - Supported 3 departments
+**Clinical Data Analytics:**
+- Analyzed large-scale clinical datasets
+- Improved research accuracy by 20%
+- Enabled faster data-driven decisions
+- Supported 3 departments
 
-Business Intelligence:
-  - Delivered 10+ Power BI dashboards
-  - Provided real-time business insights
-  - Reduced decision-making time by 35 hours/month
+**Business Intelligence:**
+- Delivered 10+ Power BI dashboards
+- Provided real-time business insights
+- Reduced decision-making time by 35 hours/month
 
-Data Infrastructure:
-  - Streamlined ETL workflows & data models
-  - Enabled 60+ business users
-  - Boosted operational efficiency
+**Data Infrastructure:**
+- Streamlined ETL workflows & data models
+- Enabled 60+ business users
+- Boosted operational efficiency
 
-Healthcare Systems:
-  - Led patient tracking system development
-  - Reduced data entry errors by 30K annually
-  - Improved patient care accuracy
-```
+**Healthcare Systems:**
+- Led patient tracking system development
+- Reduced data entry errors by 30K annually
+- Improved patient care accuracy
 
 </td>
 </tr>
