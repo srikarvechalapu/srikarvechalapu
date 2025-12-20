@@ -535,24 +535,26 @@ Interactive application built for continuous learning
 
 <div align="center">
 
-### 🏥 **US-HEALTHCARE-ANALYSIS-POWERBI**
+### 🏎️ **F1 DATA ANALYSIS PROJECT**
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarvechalapu/us-healthcare-analysis-powerbi)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarvechalapu/f1-data-analysis)
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MIT_License-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
 
 **📋 Description**
 
-Full-featured application built as a learning exercise
+Comprehensive Formula 1 racing data analysis project (1953-2020)
 
 **🎯 Key Features**
-- Healthcare data visualization
-- Interactive Power BI dashboards
-- KPI tracking and monitoring
-- Comprehensive analytics suite
+- SQL database design & relational modeling
+- Race results & driver performance analytics
+- Team statistics & circuit analysis
+- Interactive Tableau visualizations
+- Historical trend analysis & pattern recognition
+- Data cleaning & ETL workflows
 
 </td>
 </tr>
