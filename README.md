@@ -92,11 +92,11 @@ Building scalable data solutions for enterprise healthcare 💡
 class DataAnalyst implements Innovation {
   private profile: ProfessionalProfile = {
     name: "Srikar Vechalapu",
-    role: "Senior Data Analyst",
+    role: "Data Analyst",
     experience: "5+ Years",
     currentPosition: {
       company: "McKesson",
-      location: "Memphis, TN",
+      location: "San Diego, CA",
       period: "August 2024 - Present"
     },
     education: {
@@ -237,7 +237,7 @@ print(f"Status: Transforming data into business value 🚀")
 <div align="center">
 
 ### 🏥 **DATA ANALYST - McKESSON**
-**August 2024 - Present | Memphis, TN**
+**August 2024 - Present | San Diego, CA**
 
 <img src="https://img.shields.io/badge/Healthcare_Analytics-Enterprise_Scale-blueviolet?style=for-the-badge&labelColor=2C3E50"/>
 
