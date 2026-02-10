@@ -19,7 +19,7 @@
 ```bash
 ┌─[srikar@data-analytics]─[~/analytics/healthcare-systems]
 └──╼ $ whoami
-Senior Data Analyst | ML Engineer | 5+ Years Experience
+Data Analyst | ML Engineer | 5+ Years Experience
 
 ┌─[srikar@data-analytics]─[~/experience]
 └──╼ $ ls -la
