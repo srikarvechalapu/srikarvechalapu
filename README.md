@@ -24,7 +24,7 @@ Data Analyst | ML Engineer | 5+ Years Experience
 ┌─[srikar@data-analytics]─[~/experience]
 └──╼ $ ls -la
 total 5+
-drwxr-xr-x  McKesson (Current) - Data Analyst
+drwxr-xr-x  McKesson (Current) - Senior Data Analyst
 drwxr-xr-x  Uber - Data Analyst & Product Analytics
 drwxr-xr-x  Cipla - Healthcare Data Analytics
 -rw-r--r--  MS Management Information Systems (Memphis)
@@ -92,7 +92,7 @@ Building scalable data solutions for enterprise healthcare 💡
 class DataAnalyst implements Innovation {
   private profile: ProfessionalProfile = {
     name: "Srikar Vechalapu",
-    role: "Data Analyst",
+    role: "Senior Data Analyst",
     experience: "5+ Years",
     currentPosition: {
       company: "McKesson",
@@ -236,7 +236,7 @@ print(f"Status: Transforming data into business value 🚀")
 
 <div align="center">
 
-### 🏥 **DATA ANALYST - McKESSON**
+### 🏥 **SENIOR DATA ANALYST - McKESSON**
 **August 2024 - Present | San Diego, CA**
 
 <img src="https://img.shields.io/badge/Healthcare_Analytics-Enterprise_Scale-blueviolet?style=for-the-badge&labelColor=2C3E50"/>
