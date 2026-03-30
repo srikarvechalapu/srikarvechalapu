@@ -20,7 +20,7 @@
 
 ## 📊 Summary
 
-Senior Data Analyst with **3+ years** across **healthcare, tech, and pharma** — building pipelines, predictive models, and BI dashboards on AWS, BigQuery, and Snowflake.
+Senior Data Analyst with **5+ years** across **healthcare, tech, and pharma** — building pipelines, predictive models, and BI dashboards on AWS, BigQuery, and Snowflake.
 
 **Stack:** Python · SQL · dbt · Airflow · Power BI · Tableau · Looker
 
