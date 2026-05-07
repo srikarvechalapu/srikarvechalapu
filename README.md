@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-vechalapusaisrikar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vechalapusaisrikar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srikarvechalapu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarvechalapu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-srikarvechalapu.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.srikarvechalapu.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-srikarvechalapu.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srikarvechalapu.github.io/srikarvechalapu.github.io-7845/)
 [![GitHub](https://img.shields.io/badge/GitHub-srikarvechalapu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarvechalapu)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srikarvechalapu&color=blueviolet&style=for-the-badge)
