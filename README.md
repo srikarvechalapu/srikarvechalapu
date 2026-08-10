@@ -2,11 +2,13 @@
 
 # 🔬 Srikar Vechalapu
 
-### Senior Data Analyst | Marketing & BI Analytics Specialist
+### Data Engineer | Data Lake, Streaming & Warehouse Modeling on AWS
 
-*Turning data into decisions through analytics, ETL engineering, and dashboards*
+*Layered S3 data lakes, Kafka/Spark streaming pipelines, and dimensional Redshift warehouses*
 
-[![Email](https://img.shields.io/badge/Email-vechalapusaisrikar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vechalapusaisrikar@gmail.com)
+📍 San Diego, CA · Open to relocate
+
+[![Email](https://img.shields.io/badge/Email-vsrikar2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsrikar2025@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srikarvechalapu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikarvechalapu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-srikarvechalapu.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srikarvechalapu.github.io/srikarvechalapu.github.io-7845/)
 [![GitHub](https://img.shields.io/badge/GitHub-srikarvechalapu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikarvechalapu)
@@ -20,11 +22,11 @@
 
 ## 📊 Summary
 
-Senior Data Analyst with **5+ years** across **healthcare, tech, and pharma** — building pipelines, predictive models, and BI dashboards on AWS, BigQuery, and Snowflake.
+Data Engineer with **5+ years** building data lake infrastructure, streaming pipelines, and dimensional warehouse models on AWS. I own a layered S3 data lake and the streaming path behind it, processing **12M+ daily supply-chain events** into a multi-billion-row Redshift warehouse. Migrated a **50-workflow** legacy ETL estate to Airflow and added data quality checks gating **200+ production tables**.
 
-**Stack:** Python · SQL · dbt · Airflow · Power BI · Tableau · Looker
+**Stack:** Python · SQL · PySpark · Spark Structured Streaming · Kafka · Airflow · dbt · Databricks · AWS · Redshift
 
-**Wins:** 40% faster data processing · 25% fewer reporting errors · 50% less manual work · 18% marketing ROI lift
+**Wins:** 12M+ events/day at 6K/sec peak · P95 report runtime 38 → 5 min · nightly batch window 7 hrs → 90 min · 15-min freshness SLA
 
 ---
 
@@ -66,40 +68,49 @@ graph LR
 
 <div align="center">
 
-### Data Science & ML
+### Languages & Processing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Data Engineering & ETL
+### Data Platforms & Orchestration
+![Apache Spark](https://img.shields.io/badge/Spark_Batch_%26_Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge&logo=informatica&logoColor=white)
+
+### AWS
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Data Warehousing
+![Dimensional Modeling](https://img.shields.io/badge/Dimensional_Modeling-0B5FFF?style=for-the-badge)
+![ELT](https://img.shields.io/badge/ELT-1F6FEB?style=for-the-badge)
+![CDC](https://img.shields.io/badge/CDC-6E40C9?style=for-the-badge)
+![SCD Type 2](https://img.shields.io/badge/SCD_Type_2-8250DF?style=for-the-badge)
+![Partitioning](https://img.shields.io/badge/Partitioning-0969DA?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data_Quality_Frameworks-2DA44E?style=for-the-badge)
 
 ### Databases & Warehouses
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![QlikView](https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlik&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### DevOps & Reporting
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
@@ -109,11 +120,11 @@ graph LR
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e1f5ff','primaryTextColor':'#01579b','primaryBorderColor':'#0277bd','lineColor':'#0288d1','secondaryColor':'#fff3e0','tertiaryColor':'#f3e5f5'}}}%%
 pie title Technical Expertise Areas
-    "Data Analytics & BI" : 30
-    "ETL & Data Engineering" : 25
-    "Predictive Modeling" : 20
-    "Statistical Analysis" : 15
-    "Data Visualization" : 10
+    "Data Lake & Pipeline Engineering" : 30
+    "Streaming & Real-Time Ingestion" : 25
+    "Dimensional Modeling & Warehousing" : 20
+    "Orchestration & Data Quality" : 15
+    "Query & Cost Optimization" : 10
 ```
 
 ---
@@ -123,17 +134,17 @@ pie title Technical Expertise Areas
 timeline
     title Career Progression in Data Analytics
     section McKesson Corporation
-        Aug 2024 : Senior Data Analyst
-                 : Healthcare Analytics
-                 : 12+ AWS Pipelines Built
+        Aug 2024 : Data Engineer
+                 : S3 Data Lake + Kafka to Spark Streaming
+                 : 12M+ Events per Day
     section Uber Technologies
-        May 2021 : Data Analyst
-                 : Marketing Analytics
-                 : 18% ROI Improvement
+        May 2021 : Data Engineer
+                 : PySpark, Glue and dbt on S3 and Redshift
+                 : 3M+ Daily Trip Events
     section Cipla Ltd
-        Nov 2018 : Data Analyst
-                 : Pharmaceutical Analytics
-                 : 1M+ Records Analyzed
+        Nov 2018 : Data Engineer
+                 : SAP, Salesforce and Oracle Integration
+                 : Batch Window 7 hrs to 90 min
     section Education
         Aug 2022 : MS in MIS
                  : University of Memphis
@@ -186,6 +197,10 @@ Processed 1M+ clinical records with dimensional modeling and 10+ Power BI dashbo
 ---
 
 ## 📚 Open-Source Projects
+
+**🔹 Data Pipelines with Airflow**
+Airflow ETL pipeline for S3-to-Redshift warehouse loads with custom StageToRedshift, LoadFact, LoadDimension, and DataQuality operators, plus templated backfills.
+`Airflow` `Python` `SQL` `AWS Redshift` · [View Repo](https://github.com/srikarvechalapu/data-pipelines-with-airflow)
 
 **🔹 F1 Data Analysis (1953–2020)**
 SQL + Python analysis of 67 years of F1 racing data across 1,000+ Grand Prix events.
